@@ -1,0 +1,2 @@
+# TEXT-EXTRACTION-AND-ENCHANCEMENT-SYSTEM-ARCHITECTURE-EASY-OCR-AND-OPENCV
+The Text Extraction and Enhancement System is designed to extract readable text from images and videos using a combination of OpenCV for image preprocessing and EasyOCR for optical character recognition (OCR). The system focuses on improving text visibility, enhancing image quality, and accurately recognizing printed or handwritten text .
